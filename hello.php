@@ -1,4 +1,9 @@
-<?php 
+<html>
+<head>
+	<title>Pgina Inicial</title>
+</head>
+<body>
+	<h1>Sejam Bem-Vindo</h1>
 
-echo 'hello word';
-?>
+</body>
+</html>
